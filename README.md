@@ -1,5 +1,4 @@
-# weatherAPI_Assign6
-Unit 6 | Assignment - What's the Weather Like?
+What's the Weather Like?
 WeatherPy
 In this example, you'll be creating a Python script to visualize the weather of 500+ cities across the world of varying distance from the equator. To accomplish this, you'll be utilizing a simple Python library, the OpenWeatherMap API, and a little common sense to create a representative model of weather across world cities.
 Your objective is to build a series of scatter plots to showcase the following relationships:
