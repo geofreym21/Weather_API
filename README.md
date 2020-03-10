@@ -1,7 +1,7 @@
 # What's the Weather Like?
 
 ## WeatherPy
-Create a Python script to visualize the weather of 500+ cities across the world of varying distance from the equator. To accomplish this, you'll be utilizing a simple Python library, the OpenWeatherMap API, and a little common sense to create a representative model of weather across world cities.
+A Python script that visualizes the weather of 500+ cities across the world of varying distance from the equator. A simple Python library and the OpenWeatherMap API was utilized in order to accomplish the said visualization, plus a little common sense that create a representative model of weather across world cities.
 
 ## Objective: to build a series of scatter plots to showcase the following relationships:
 •	Temperature (F) vs. Latitude
